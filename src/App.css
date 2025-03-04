@@ -26,6 +26,8 @@ body {
 .carousel-item img {
   max-width: 100%;
   border-radius: 10px;
+  display: block;
+  margin: 0 auto;
 }
 
 .carousel-item h3 {
