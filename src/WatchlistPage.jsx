@@ -1,6 +1,9 @@
 import React from 'react';
 import Watchlist from './Watchlist';
 
+
+
+
 const WatchlistPage = ({ watchlist, removeFromWatchlist }) => {
   return (
     <div className="watchlist-page">
