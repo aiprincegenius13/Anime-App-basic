@@ -1,4 +1,11 @@
 
+body {
+  display : flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
 .carousel {
   display: flex;
   align-items: center;
@@ -10,7 +17,7 @@
 .carousel-item {
   flex: 0 0 auto;
   margin: 0 10px;
-  border: 2px solid #ccc;
+  border: 2px solid green;
   border-radius: 10px;
   padding: 10px;
   text-align: center;
