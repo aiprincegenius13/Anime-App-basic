@@ -21,4 +21,5 @@ etc..
 - javaScript
 - react-router-dom
 - useContext/useReducer
+- Netlify Deployment (   https://magenta-meerkat-fa458c.netlify.app/)
 
