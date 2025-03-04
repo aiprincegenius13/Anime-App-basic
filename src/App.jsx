@@ -19,6 +19,7 @@ const App = () => {
       <div className="App">
         <nav>
           <Link to="/">Home</Link>
+          <br />
           <Link to="/watchlist">Watchlist</Link>
         </nav>
         <Routes>
